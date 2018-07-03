@@ -1,3 +1,11 @@
+"""
+为什么要用pandas？ 针对需要做数据分析的人用的
+优点
+    1.快：适合处理报表类的数据【数据分析】【数据并行】
+    2.代码量少【容易维护】
+缺点：不适合每个变量间的逻辑特别复杂的情形
+"""
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
